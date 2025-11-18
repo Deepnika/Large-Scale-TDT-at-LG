@@ -1,0 +1,4 @@
+Data/**
+Simulations/**
+*.ipynb_checkpoints
+__pycache__/**
